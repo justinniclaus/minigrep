@@ -2,7 +2,7 @@
 
 ## Overview
 
-**minigrep** is a simple command-line tool written in Rust for searching a user-defined substring in a given file. It’s inspired by the “minigrep” example in *The Rust Programming Language* book. This project demonstrates basic Rust concepts like reading command-line arguments, file I/O, error handling, and unit testing.
+**minigrep** is a simple command-line tool written in Rust for searching a user-defined substring in a given file. This project demonstrates basic Rust concepts like reading command-line arguments, file I/O, error handling, and unit testing.
 
 ## Features
 
@@ -27,6 +27,8 @@
     ```
 
 ## Usage
+**Example file `poem.txt`:**
+![image](https://github.com/user-attachments/assets/bfa8c119-3fff-46a5-9e51-e5535e770825)
 
 **Basic Usage:**
 ![image](https://github.com/user-attachments/assets/7a0e9176-0013-4f00-aa16-fef22a827a95)
