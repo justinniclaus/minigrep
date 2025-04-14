@@ -31,6 +31,14 @@
 **Basic Usage:**
 ![image](https://github.com/user-attachments/assets/88e1e423-9624-4c4d-9bce-7e11b3778807)
 
+---
+
+![image](https://github.com/user-attachments/assets/fd8b3c38-1b61-42bd-9a41-341c79815b28)
+
 **To perform a case-insensitive search, set IGNORE_CASE:**
 ![image](https://github.com/user-attachments/assets/3b3584f9-cac7-48dc-94c7-09aba842e81c)
+
+---
+
+![image](https://github.com/user-attachments/assets/cd6c33ec-55ee-4284-92f7-01e93d1fb6f5)
 
