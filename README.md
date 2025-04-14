@@ -29,7 +29,7 @@
 ## Usage
 
 **Basic Usage:**
-![image](https://github.com/user-attachments/assets/88e1e423-9624-4c4d-9bce-7e11b3778807)
+![image](https://github.com/user-attachments/assets/7a0e9176-0013-4f00-aa16-fef22a827a95)
 
 ---
 
