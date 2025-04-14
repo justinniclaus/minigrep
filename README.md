@@ -33,4 +33,3 @@
 
 **To perform a case-insensitive search, set IGNORE_CASE:**
 
-IGNORE_CASE=1 cargo run "nobody" poem.txt
