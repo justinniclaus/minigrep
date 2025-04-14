@@ -1,5 +1,3 @@
-Below is a complete README.md document containing the requested sections. You can copy and paste this into a new file named README.md in your repository.
-
 # minigrep
 
 ## Overview
