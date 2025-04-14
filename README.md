@@ -29,7 +29,8 @@
 ## Usage
 
 **Basic Usage:**
-
+![image](https://github.com/user-attachments/assets/88e1e423-9624-4c4d-9bce-7e11b3778807)
 
 **To perform a case-insensitive search, set IGNORE_CASE:**
+![image](https://github.com/user-attachments/assets/3b3584f9-cac7-48dc-94c7-09aba842e81c)
 
