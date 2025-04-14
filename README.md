@@ -27,17 +27,17 @@
     ```
 
 ## Usage
-####**Example file `poem.txt`:**
+#### **Example file `poem.txt`:**
 ![image](https://github.com/user-attachments/assets/bfa8c119-3fff-46a5-9e51-e5535e770825)
 
-####**Basic Usage:**
+#### **Basic Usage:**
 ![image](https://github.com/user-attachments/assets/7a0e9176-0013-4f00-aa16-fef22a827a95)
 
 ---
 
 ![image](https://github.com/user-attachments/assets/fd8b3c38-1b61-42bd-9a41-341c79815b28)
 
-####**To perform a case-insensitive search, set IGNORE_CASE:**
+#### **To perform a case-insensitive search, set IGNORE_CASE:**
 ![image](https://github.com/user-attachments/assets/3b3584f9-cac7-48dc-94c7-09aba842e81c)
 
 ---
