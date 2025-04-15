@@ -6,10 +6,11 @@ use minigrep::Config;   // Brings the Config struct from the lib file into scope
 fn main() 
 {
     // Collect the command-line arguments into a vector of strings.
-    let args: Vec<String> = env::args().collect(); 
+    let _args: Vec<String> = env::args().collect(); 
     
     // Try to build a Config struct from the arguments. If there's an error, handle it gracefully.
-    let config = Config::build(&args)
+    let config = 
+        Config::build(env::args())
         .unwrap_or_else(|_err| 
             {
                 eprintln!("Problem parsing arguments: {}", _err);
